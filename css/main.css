@@ -1,0 +1,197 @@
+* { 
+        font-family: 'Open Sans', sans-serif; 
+        font-size: 14px; }  
+
+.logo {  
+        width: 80%;
+        height: 100px; }
+
+nav a { 
+        color: #9CA1A3;
+        text-decoration: none; 
+        border-right: 1px solid #9CA1A3;
+        padding:0 20px;  }
+
+li:hover { 
+    background-color: #ACC846;
+}
+
+nav ul { 
+        list-style-type: none;
+        margin-top: 55px;
+        text-align: right;  }
+        
+nav li {  display: inline-block;  }
+
+.banner{ 
+        width: 100%;
+        height: 338px;  object-fit: none;  }    
+.tres  { 
+        background: #F2F2F2; 
+        color:#8E9199;
+        text-align: center;  }
+
+.tres p  {
+        margin: 70px; 
+        padding: 0px 205px;  }
+
+.misionyvision { 
+        background: white;
+        text-align: center;
+        color:#8E9199;  }           
+     
+.cuatro {                                           
+        margin-top: 75px;
+        margin-bottom: 75px;}
+
+.cuatro h2 {
+        color: black;
+        font-size: 22px; 
+        font-weight: bold; }
+
+.mv { height: 135px ; width:135px; }
+
+.mision {  padding: 0px 95px;  }
+
+.met {
+    height: 360px ; 
+    width:100% ;  object-fit: none;  }
+
+.fondverde { 
+     background: url(../img/fondo.jpg); 
+     color: white;
+     text-align: center; 
+     height: 360px;  
+     padding: 0 45px; } 
+      
+.cinco h2  { 
+    font-size: 23px;
+    margin-bottom: 30px; }
+
+.metico{ 
+     margin-top: 90px;
+     margin-bottom: 30px;  }
+
+.seis { 
+     margin-top: 75px;
+     margin-bottom: 75px;
+     text-align: center;
+     color: #8E9199; ; }
+
+.seis  h2   { 
+    font-size: 22px;  
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: black;   }
+
+.siete { 
+    text-align: center;
+    color: #8E9199;  }
+
+.logospf {   width: 25%  }
+
+.siete h3 { 
+    font-size: 17px;  
+    margin-bottom: 20px;  
+    padding: 0 155px;
+    color: #627C31; }
+
+.siete p  { 
+    padding: 0 55px;
+    margin-bottom: 80px; }
+
+.ocho {  
+    padding: 75px 80px;
+    text-align: center; }
+
+.fotografias { 
+    background: #5E8039;
+    color: white;  }
+
+.fotopro {  height: 330px;  }
+
+.pfoto  {  
+    font-size: 22px;
+    text-align: left; }
+
+.ocho h2 { 
+    font-size: 22px;
+    margin-top: 70px;
+    margin-bottom: 5px; }
+
+.ocho h3 { font-size: 15px; }
+
+.ocho p { padding: 0px 110px; }
+
+.perfiles { margin: 75px; }
+
+.perfil  {
+    width:30%; 
+    margin: auto;
+    border-radius: 100%;  }
+
+.perfiles h2 { 
+    font-size: 22px;
+    margin-top: 25px;  }
+
+.cargo { padding: 0 135px;}
+
+.equip { 
+    text-align: left;
+    color: #5A7E36; 
+    font-size: 22px;
+    font-weight: bold; }
+
+.perfiles input { 
+    color: white;
+    border-radius: 8px;
+    height: 35px;
+    width: 35px;
+    margin: 20px  5px;   }
+
+.nueve { background: url(../img/fondo2.jpg);}
+
+.nueve img {  width: 80%; }
+
+.nueve input { margin: 50px 40px;  }
+
+.postdescripcion { 
+    padding-right: 70px;
+    padding-bottom: 75px;  }
+
+.blog {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 75px;  }
+
+.nueve h2 { font-size: 18px;  }
+
+.contacto {
+    background:#4D4D4D;
+    color: white;  }
+
+.cuadrocontenedor { margin: 0 80px; }
+
+.cuadro {  
+    border: 1px solid;
+    margin: 75px 0;
+    padding: 20px;
+    height: 200px; }
+
+.diez img { 
+    width: 12%;
+    margin-top: 105px;
+    margin-left: 165px;  }
+
+.diez p { font-size: 18px; }
+
+footer {
+    background: #F2F2F2;
+    font-size: 12px;
+    padding:50px 75px;  }
+
+.naranja {  color:#F8C60E;  }
+
+.derecha { float: right;}
+
